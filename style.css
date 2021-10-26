@@ -22,6 +22,7 @@
  }
  .half-width img{
      width: 100%;
+     height: 500px;
  }
  .top-banner{
      background-image: url(images/top-banner.png);
